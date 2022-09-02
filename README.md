@@ -1,4 +1,5 @@
-[![MasterHead](https://ibb.co/44Jz4k4)]
+
+<img align="center" alt="Coder" width="400" src="https://ibb.co/44Jz4k4">
 <h1 align="center">Hi 👋, I'm Abhisekh Bisoyi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
